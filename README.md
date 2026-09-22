@@ -1,6 +1,6 @@
 # Hi there, I'm Zuriel! 👋 
 
-### 👨‍💻 Full-Stack Developer | BSIT Student @ PHINMA COC
+### 👨‍💻 BSIT Student @ PHINMA COC
 I am a passionate developer focused on building functional, user-centric applications. Currently, I'm specializing in mobile and web integration with a focus on healthcare solutions.
 
 ---
