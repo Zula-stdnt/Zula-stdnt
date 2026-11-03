@@ -25,7 +25,7 @@ A full-stack web application designed to streamline clinic operations and patien
 - Implemented role-based staff access and audit logging.
 - Developed interactive frontend functionality using JavaScript.
 
-### Sari-Sari Store Point of Sale (POS) System
+### Sari-Sari Store Point of Sale System
 **Individual Project | August – October 2026**
 
 A web-based POS application simulating neighborhood grocery store operations.
