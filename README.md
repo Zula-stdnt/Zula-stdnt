@@ -104,8 +104,6 @@ My BSIT coursework covers several areas of computing, including:
 - **Data Analytics:** Statistical analysis, hypothesis testing, and optimization.
 - **Big Data Engineering:** Distributed storage, batch processing, and data streaming.
 
-I document my academic learning, technical notes, exercises, and practical experiments in my **[BSIT Technical Learning Portfolio](YOUR-REPOSITORY-LINK)**.
-
 ---
 
 ## 🤖 Currently Exploring
