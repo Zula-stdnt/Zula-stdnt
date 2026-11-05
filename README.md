@@ -1,6 +1,6 @@
 # Hi there, I'm Zuriel! 👋
 
-### Third-Year BSIT Student · Full-Stack & Mobile Developer (Web & Mobile Systems)
+### Third-Year BSIT Student · Aspiring Full-Stack & Mobile Developer (Web & Mobile Systems)
 📍 **Cagayan de Oro City, Philippines** · 🎓 **PHINMA Cagayan de Oro College** (Systems Development Major)  
 💼 *Actively seeking 2026 Software Engineering, Full-Stack, and Mobile Developer Internship opportunities.*
 
